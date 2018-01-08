@@ -1,2 +1,2 @@
 # IMTChain
-imwallet blockchain
+imwallet blockchain based on go-ethereum
